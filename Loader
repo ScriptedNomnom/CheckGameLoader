@@ -7,5 +7,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/BreakI
 elseif game.PlaceId == 6104994594 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/PilferingPiratesScriptV1.5/main/ScriptMain'))()
 elseif game.PlaceId == 4003872968 then
-https://raw.githubusercontent.com/ScriptedNomnom/GiantSurvivalScriptV1.5/main/ScriptMain
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/GiantSurvivalScriptV1.5/main/ScriptMain'))()
 end
