@@ -14,6 +14,7 @@ elseif game.PlaceId == 4913581664 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/CartRideScriptFullVersion/main/ScriptMain'))()
 elseif game.PlaceId == 3431407618 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/IsleScriptV2.0/main/MainScript'))()
+print("Loaded")
 elseif game.PlaceId == 3095204897 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptedNomnom/IsleScriptV2.0/main/Printer'))()
 end
